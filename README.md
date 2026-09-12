@@ -83,5 +83,5 @@ More projects will be added as I continue building and improving my hands-on ski
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Sushilkumar Bhalerao](linkedin.com/in/sushilkumarbhalerao)
+- LinkedIn: [Sushilkumar Bhalerao](https://www.linkedin.com/in/sushilkumarbhalerao/)
 - GitHub: [sushil518](https://github.com/sushil518)
